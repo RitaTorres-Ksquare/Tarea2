@@ -1,0 +1,35 @@
+body{
+    background-color:dimgray;
+    text-align: center;
+    align-items: center;
+}
+
+.food img{
+height: 200px;
+}
+h1{
+    font-weight: bold;
+}
+
+
+.curiosidades{
+columns: 3 ;
+display: flex;
+vertical-align: top;
+}
+
+.curiosidad{
+    background-color: aliceblue;
+    margin: 5px;
+    border-color: black;
+    border-radius: 10px;
+    width:33%;
+
+}
+
+.curiosidad img{
+    width:30%;
+}
+h3{
+    margin-top: 100px;
+}
